@@ -24,6 +24,9 @@ int main( ){ int</main>
     cout << "la edad es 30 " << endl;
     cout << "la talla es 16" << endl;
     
+
+
+    
     
 
     cout<< "(determinar si cuando sea  1 hombre, 2 cuando sea mujer)=1" << endl;
