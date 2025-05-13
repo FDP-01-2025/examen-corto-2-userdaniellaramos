@@ -1,0 +1,26 @@
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+int main(){
+
+    float;
+    int;
+    cout << "determinar la talla segun su edad" << endl;
+    cin>>endl;
+    if << edad (=10 años)
+    out << "la edad es 10" << endl;
+
+    cout  << " ingrese su edad" << endl;
+
+      << "• De 0 a 10 años: Talla 8"
+
+
+
+
+
+
+
+return 0
+
+}
